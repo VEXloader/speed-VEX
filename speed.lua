@@ -1,5 +1,5 @@
 getgenv().TpWalking = true
-getgenv().Speed = 10
+getgenv().Speed = 5
 
 local speaker = game:GetService("Players").LocalPlayer
 local chr = speaker.Character
